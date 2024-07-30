@@ -33,7 +33,6 @@ from astropy.timeseries import LombScargle # Lomb–Scargle periodogram (LSP)
 from astropy.io import fits # convert the FITS format
 from astropy.timeseries import BoxLeastSquares
 from astropy.timeseries import TimeSeries
-#from astropy.timeseries import PhaseDispersionMinimization as PDM
 
 from PyAstronomy.pyTiming import pyPDM
 
